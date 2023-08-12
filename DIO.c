@@ -134,3 +134,4 @@ void MDIO_voidSetPortValue(u8 A_u8PortNo,u8 A_u8PortValue){
 			case PORTD: DIO_PORTD_REG= A_u8PortValue; break;
 			}		}
 }
+// finito
